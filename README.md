@@ -43,7 +43,7 @@ python oauth.py
 ```
 
 Once you have all the credentials you can create an .env file under src/  
-Following the env_sample file paste your credentials in the .env file  
+Following the env_sample file, paste your credentials in the .env file  
 For more information, see https://pypi.org/project/python-dotenv/
 
 Now you should be able to make a post by running

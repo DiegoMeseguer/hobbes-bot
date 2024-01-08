@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ```
 
 We will be using the Punkt Sentence Tokenizer  
-For more information, see https://www.nltk.org/api/nltk.tokenize.punkt.html
+For more information, see https://www.nltk.org/api/nltk.tokenize.punkt.html  
 To install the model, you can run
 ```python
 python get_nltk_data.py
